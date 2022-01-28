@@ -68,7 +68,7 @@ class DestinationInfo : public PassangerInfo
 	{
 		reenter:
 		cout << "Please Select The Boarding Destination From The Given List\n";
-		cout << "1)India\n 2)United States\n 3)United Kingdome\n 4)Japan\n 5)South Korea\n 6)Australiea\n 7)Germany\n 8)Russia\n 9)China\n";
+		cout << "1)India\n 2)United States\n 3)United Kingdome\n 4)Japan\n 5)South Korea\n 6)Australia\n 7)Germany\n 8)Russia\n 9)China\n";
 		cin  >> BoardingDesNum;
 		switch(BoardingDesNum)
 		{
@@ -110,7 +110,7 @@ class DestinationInfo : public PassangerInfo
 	{
 		reenter1:
 		cout << "Please Select The Arrival Destination From The Given List\n";
-		cout << "1)India\n 2)United States\n 3)United Kingdome\n 4)Japan\n 5)South Korea\n 6)Australiea\n 7)Germany\n 8)Russia\n 9)China\n";
+		cout << "1)India\n 2)United States\n 3)United Kingdome\n 4)Japan\n 5)South Korea\n 6)Australia\n 7)Germany\n 8)Russia\n 9)China\n";
 		cin >> ArrivingDesNum;
 	switch(ArrivingDesNum)
 		{
